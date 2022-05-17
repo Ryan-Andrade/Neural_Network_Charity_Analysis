@@ -1,2 +1,5 @@
 # Neural_Network_Charity_Analysis
-This repository has been utilized to help track my progress through Neural Networks learning module, the last learning module of my Data Analytics Bootcamp.
+## Overview
+ This analysis was performed in order to determine which charities would have the most success if they were given a donation from alphabet soup.
+
+## Results
